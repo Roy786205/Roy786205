@@ -1,6 +1,6 @@
 ![logo](https://github.com/Roy786205/Roy786205/blob/main/1719841178871.jpeg)
 <h1 align="center">Hi 👋, I'm Rohit Patil</h1>
-<h3 align="center">👨‍💻 DevOps Engineer | Cloud & Infrastructure | Automation & CI/CD
+<h3 align="center">
   
 🚀 Passionate about building scalable infrastructure, CI/CD pipelines, and improving developer workflows.
 🔧 Experienced with Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, AWS, and Azure.
