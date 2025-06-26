@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Patil</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/f104bf7f-be73-4961-8a28-12167fc51f85)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/9d679ce0-4892-4bd7-afc7-2b16c01940ca)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy786205&label=Profile%20views&color=0e75b6&style=flat" alt="roy786205" /> </p>
 
