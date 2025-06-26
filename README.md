@@ -1,4 +1,4 @@
-![logo](https://github.com/Roy786205/Roy786205/blob/main/240_F_356278150_JpeXsUUjmwFgM4edO8w0IWaYCuX1IhpS.jpg)
+![logo](https://github.com/Roy786205/Roy786205/blob/main/240_F_282378637_7DL904AvZkZovk3RqLdLwNe21RNcjpzg.jpg)
 <h1 align="center">Hi 👋, I'm Rohit Patil</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
